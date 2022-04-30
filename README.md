@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Nothing!
 - 💞️ I’m looking to collaborate on You?
-- 📫 How to reach me (help.clydestudios@gamil.com)
+- 📫 How to reach me (help.clydestudios@gmail.com)
 
 <!---
 ClydeStudios/ClydeStudios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
